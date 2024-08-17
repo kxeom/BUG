@@ -21,7 +21,7 @@
         "q": "books",
         /* Attacker Embedded Query Param. Directly from URL or using other Backend/Frontend manipulations */
         "__proto__": {
-            "backLink": "<svg onload=alert(AKIRA)>"
+            "backLink": "<svg onload=alert(1337)>"
         }
     }
 
